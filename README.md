@@ -4,17 +4,17 @@ Credit Analysis dashboard looking at applicant demographic data and their credit
 ## Project Overview:
 
 ## Datatset used
-[Credit Record]()
-[Applicant Record]()
+* [Credit Record](https://github.com/Initial-T53/Credit-Analysis/blob/main/credit_record.csv)
+* [Applicant Record]()
 
 ## Questions(KPI)
 
 ## Dashboard
 * [Executive Summary]()
-* [Applicant Demographics]()
-* [Payment Behavior]()
+* [Applicant Demographics](Screenshots/Applicant Demographics.png)
+* [Payment Behavior](https://github.com/Initial-T53/Credit-Analysis/blob/main/Screenshots/Default%20Risk%20Drivers.png)
 * [Default Risk Driver]()
-* [Interactive Dashboard](https://app.powerbi.com/links/gAn2P-9NEH?ctid=9ef9f489-e0a0-4eeb-87cc-3a526112fd0d&pbi_source=linkShare)
+* [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTljNmY4ODUtM2IyZi00ZTA4LWJhNTctZmUzMjBmODBiNDAxIiwidCI6IjllZjlmNDg5LWUwYTAtNGVlYi04N2NjLTNhNTI2MTEyZmQwZCIsImMiOjF9)
 
 
 ## Final Conclusion
